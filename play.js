@@ -1,6 +1,3 @@
-# nodejs-guide
-### js常用写法
-```
 //局部变量使用let,常量使用const
 const add = (a)=>a+1;
 
@@ -24,4 +21,3 @@ printNum(1,4,5);
 //使用可变赋值
 const {name,age} = person;
 console.log(name+","+age);
-```
